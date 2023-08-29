@@ -5,7 +5,7 @@ I am a beginner Python programmer. I decided to study programming because it is 
 Currently, I am actively studying the Django framework.
 
 - 🖥️ At the moment I'm learning Python, backend, Django
-- 📖 I'm working on my graduation project
+- 📖 I'm working on my diploma project
 - 📱 You can contact me
   - @VitaliyRudenko - Telegram
 
